@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MOOP_UAS_2301874866</string>
+    <string name="customize_your_clothes">Customize your Clothes</string>
+    <string name="type">Type:</string>
+    <string name="color">Color:</string>
+    <!--    <string name="type">Type:</string>-->
+    <string name="clothes_preview">Clothes Preview</string>
+
+    <string-array name="tipebaju">
+        <item>Shirt</item>
+        <item>Pants</item>
+        <item>Hat</item>
+    </string-array>
+
+    <string-array name="warna">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+    </string-array>
+
+</resources>
+
